@@ -1,6 +1,6 @@
 # 01_basic_intro
 
-In this very much a trivial entry level example, we simply show how to create a HLS project from scratch. Currently this would run in Vitis Unified IDE 2025.2. For now disregard the funcitonal content, we will elaborate on subsequent articles. There are multiple ways to accomplish the project creation along AMD Vitis Unified IDE:
+In this very much a trivial entry level example, we simply show how to create a HLS project from scratch. Currently this would run in Vitis Unified IDE 2025.2. For now disregard the functional content, we will elaborate on this in subsequent articles. The actual content is is listed here: 
 
 ## Common source files
 - ./src/fir_fixed_taps.h
@@ -8,6 +8,7 @@ In this very much a trivial entry level example, we simply show how to create a 
 - ./src/fir_fixed_taps_tb.c
 
 <br>
+There are multiple ways to accomplish the project creation along AMD Vitis Unified IDE, just familiarize yourself with the approaches:
 
 ## Scripted Flow
 1. Enter the repository directory <br>
